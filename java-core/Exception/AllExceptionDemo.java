@@ -1,4 +1,5 @@
 package Exception;
+
 import java.io.*;
 
 public class AllExceptionDemo {
