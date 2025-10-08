@@ -1,0 +1,6 @@
+F001|R001|B001|Trả sách trễ hạn|15000.00|2025-10-02|Đã thanh toán|Quá hạn 3 ngày
+F002|R002|B005|Mất sách|100000.00|2025-10-02|Đã thanh toán|Bồi thường toàn bộ
+F003|R80|B52|Mat sach|30000.00|2025-10-05|Đã thanh toán|qua han
+F004|M24|M23|qua han|1000000.00|2025-10-05|Đã thanh toán|critical
+F005|M24|M23|qua han|1000000.00|2025-10-05|Đã thanh toán|critical
+F006|R22|B205|Hỏng sách|30000.00|2025-10-08|Chưa thanh toán|low
